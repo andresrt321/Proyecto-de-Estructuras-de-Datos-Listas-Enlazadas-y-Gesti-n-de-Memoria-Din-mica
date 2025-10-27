@@ -1,0 +1,2 @@
+# Proyecto-de-Estructuras-de-Datos-Listas-Enlazadas-y-Gesti-n-de-Memoria-Din-mica
+Este proyecto en C simula una gestión de pasajeros de aerolínea usando Listas Enlazadas Simples y Memoria Dinámica (malloc/free). Implementa la lógica de Overbooking (10% extra) y la prioridad FIFO ("Primero en registrarse, primero en abordar"). El sistema registra pasajeros y simula el abordaje, respetando la capacidad del avión.
